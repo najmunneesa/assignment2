@@ -1,0 +1,127 @@
+.body{
+	background-color: red;
+	height: 100%;
+	background:linear-gradient(#ffffff,#f7f7f7,#f7f7f7,#dfe3ee,#dfe3ee,#8b9bc3);
+	}
+	#header{
+	background-color: #3b5998;
+	width: 100%;
+	min-width: 1200px;
+	float: left;
+	height: 70px;
+}
+#login_container{
+	float: right;
+	width: 45%;
+	color: white;
+}
+#email{
+	margin-left: 100px;
+	margin-top: -50px;
+	}	
+#password{
+	margin-left: 290px;
+	margin-top: -54px;
+
+}
+#login{
+	width: 40px;
+	margin-left: 490px;
+	margin-top: -54px;
+	color: white;
+	background-image:linear-gradient(#8b9dc3,#3b5998);
+	border: solid 1px #3b5998;
+}
+#fb_logo{
+	float: left;
+	width: 45%;
+	padding-left: 100px;
+}
+#image{
+	float: left;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+#image p{
+	color: #3B5998;
+	font-size: 15px;
+	font-family: verdana;
+	font-weight: bold;
+	width:400px;
+}
+#form{
+	float: right;
+	margin-left: 800px;
+	margin-top: -300px;
+
+}
+#form p:first-child{
+	color:black;
+	font-size: 30px;
+	font-family: verdana;
+	width: 400px;
+	font: normal;
+	font-weight: bold;
+	padding: 0px 0px;
+}
+#form p:nth-child(2){
+	color: black;
+	font-size: 15px;
+	font-family: verdana;
+	width: 250px;
+	margin-top: -20px;
+}
+#terms_condition{
+	color: #7C7C77;
+	font-size: 13px;
+	font-family: verdana;
+}
+.name{
+	width: 149px;
+	min-height: 30px;
+	border: solid 1px lightblue;
+	border-radius: 3px;
+}
+.details{
+	width: 304px;
+	min-height: 30px;
+	border: solid 1px lightblue;
+	border-radius: 3px;
+}
+
+h3{
+	color: black;
+	font-size: 16px;
+	font-family: verdana;
+}
+#dob{
+	width: 500px;
+}
+#dob select{
+	height: 30px;
+	border: solid 1px lightblue;
+	border-radius: 5px;
+}
+a{
+	color: blue;
+	font-size: 13px;
+	font-family: verdana;
+	font-style: normal;
+	text-decoration: none;
+}
+h4{
+	color: #5E5D57;
+	font-size: 15px;
+	font-family: verdana;
+}
+#signup{
+	width:250px;
+	min-height: 30px;
+	background-image:linear-gradient(#89B851,#7EAF44,#6E9D35,#668D38);
+	border: solid 1px #628637 ;
+	color: white;
+	font-size: 15px;
+	font-family: verdana;
+	font-weight: bold;
+	border-radius: 5px;
+}

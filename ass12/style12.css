@@ -1,0 +1,11 @@
+#parent li{
+	color: darkblue;
+	font-size: 50px;
+
+}
+#parent li:nth-child(even){
+	background-color: darkblue;
+	color: white;
+	font-size: 50px;
+	width: 400px;
+}

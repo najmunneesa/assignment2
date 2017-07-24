@@ -1,0 +1,15 @@
+div{
+	color: white;
+	font-family: times;
+	background-color: darkblue;
+	border:10px ridge #FA8749;
+	padding: 50px 50px;
+}
+h1{
+	background: #4987AF;
+	font: white;
+	width: 140px;
+}
+span{
+	color: yellow;
+	text-decoration: underline;

@@ -1,0 +1,23 @@
+
+a:hover{
+	color: red;
+	font-size: 30px;
+	text-decoration: underline;
+}
+a:active{
+	color:orange;
+	font-size: 30px;
+	text-decoration: underline;
+
+}
+a:visited{
+	color: purple;
+	font-size: 30px;
+	text-decoration: none;
+
+}
+ a{
+	color: blue;
+	font-size: 30px;
+	text-decoration: none;
+}

@@ -1,0 +1,75 @@
+form{
+	background:linear-gradient(#ffffff,#f7f7f7,#e6e6e6);
+	width: 500px;
+	margin-left: 20px;
+	padding-left: 60px;
+	padding-top: 10px;
+
+}
+form h1{
+	font-size: 30px;
+	font-weight: bold;
+}
+form p{
+	font-size: 20px;
+}
+.name{
+	width: 200px;
+	height: 40px;
+	border: solid 2px #e6e6e6;
+	border-radius: 5px;
+}
+.details{
+	width: 402px;
+	height: 40px;
+	border: solid 2px #e6e6e6;
+	border-radius: 5px;
+}
+h3{
+	font-size: 25px;
+	font-family: arial;
+	width: 100px;
+}
+#dob{
+	width: 550px;
+	height: 40px;
+	}
+#dob select{
+	height: 35px;
+	border-radius: 5px;
+	border: solid 1px #e6e6e6;
+}
+#dob a{
+	width: 50px;
+	height: 40px;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 13px;
+	}
+#radio{
+	font-family: arial;
+	font-size: 20px;
+}
+#terms_condition{
+	font-size: 15px;
+	font-family: arial;
+	color: grey;
+	width: 400px;
+}
+#signup{
+		width: 250px;
+		height: 40px;
+		color: white;
+		font-family: verdana;
+		font-weight:bold; 
+		font-size: 20px;
+		border: solid 3px #668D38;
+		border-radius: 10px;
+		background: linear-gradient(#89B851,#7EAF44,#6E9D35,#668D38);
+
+	}
+	h4{
+		color: grey;
+		font-size: 15px;
+		font-family: arial;
+	}

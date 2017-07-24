@@ -1,0 +1,12 @@
+
+#parent li{
+	color: red;
+	font-size: 50px;
+
+}
+#parent li:after{
+	content: "'";
+}
+#parent li:before{
+	content: "'";
+	}

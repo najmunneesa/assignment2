@@ -1,0 +1,55 @@
+div img{
+	width: 150px;
+		height: 40px;
+		border: solid 3px #9D9888;
+		background-color: white;
+
+}
+p img{
+		width: 150px;
+		height:90px;
+		background-color: transparent;
+		border: dashed 5px black;
+}
+#baabtra{
+	background-color: #06488A;
+		height: 250px;
+		border: solid 5px white;
+		padding: 10px 10px;
+		color: white;
+	}
+#cybersquare{
+		background-color: #FFD700;
+		height: 250px;
+		border:solid 5px white;
+		padding: 10px 10px;
+		color: black;
+	}
+	#massbaab{
+		background-color: #B5F690;
+		height: 220px;
+		border:solid 5px white;
+		padding: 10px 10px;
+		color:#436F34; 
+	}
+#baabtra h4{
+	width: 150px;
+		background-color: #A9A9A9;
+		color: white;
+		padding: 5px 5px;
+		text-align: center;
+}
+#cybersquare h4{
+		width: 150px;
+		background-color: #D4AF37	;
+		color: white;
+		padding: 5px 5px;
+		text-align: center;
+}
+#massbaab h4{
+		width: 150px;
+		background-color: #A5D14E;
+		color: white;
+		padding: 5px 5px;
+		text-align: center;
+}
